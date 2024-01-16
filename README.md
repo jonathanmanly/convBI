@@ -10,5 +10,6 @@ ConvBI then runs the appropriate function, and returns the output to the LLM to 
 Create your api key at [openai.com](https://openai.com/), and save a text file in your local directory with this code called config.ini in the format below:
 
 [DEFAULT]
+
 openai_api_key = <...>
 
